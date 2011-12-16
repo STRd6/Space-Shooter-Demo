@@ -1,0 +1,1 @@
+{"height":320,"wrapMain":true,"width":480,"hotSwap":true,"author":"Daniel X. Moore","directories":{"test":"test","compiled":"compiled","sounds":"sounds","images":"images","lib":"lib","source":"src"},"name":"space_shooter","libs":{"00_gamelib.js":"https://github.com/STRd6/gamelib/raw/pixie/gamelib.js","browserlib.js":"https://github.com/STRd6/browserlib/raw/pixie/browserlib.js"}}
